@@ -1,2 +1,2 @@
 # PaperResource
-the list of papers you have read
+the list of papers my have read

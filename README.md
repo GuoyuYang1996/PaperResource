@@ -11,7 +11,6 @@ the list of papers my have read
 6.   sabary I, Eyal I. The gap game. CCS2018.
 7.   Gao S, Li Z, Peng Z, et al. Power adjusting and bribery racing: Novel mining attacks in the bitcoin system. CCS2019.
 8.   Szalachowski P, Reijsbergen D, Homoliak I, et al. Strongchain: Transparent and collaborative proof-of-work consensus. USENIX security2019.
-
 9.   Feng C, Niu J. Selfish mining in ethereum. ICDCS2019.
 10.  Liu H, Ruan N, Du R, et al. On the strategy and behavior of bitcoin mining with n-attackers. ASIACCS2018.
 11.  Bai Q, Zhou X, Wang X, et al. A deep dive into blockchain selfish mining. ICC2019.

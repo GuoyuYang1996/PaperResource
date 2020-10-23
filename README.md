@@ -15,5 +15,10 @@ the list of papers my have read
 10.  Liu H, Ruan N, Du R, et al. On the strategy and behavior of bitcoin mining with n-attackers. ASIACCS2018.
 11.  Bai Q, Zhou X, Wang X, et al. A deep dive into blockchain selfish mining. ICC2019.
 
+【Blcokchain System Security】
+
+【Consensus】
+
 【Cross-Chain】
 1.   Chain Interoperability. Vitalik Buterin. 2016.
+

@@ -13,8 +13,8 @@
 # FC
     [Mining] Eyal, Ittay, and Emin Gün Sirer. "Majority is not enough: Bitcoin mining is vulnerable." 2014.
    
-   > 对比特币进行自私挖矿，敌手算力大于全网算力的25%时，敌手会盈利
-    *****
+   > * 对比特币进行自私挖矿，敌手算力大于全网算力的25%时，敌手会盈利
+   
     
     [Mining]
 

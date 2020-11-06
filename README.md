@@ -1,4 +1,4 @@
-@[toc]
+
 
 
 
@@ -7,6 +7,8 @@
     
     > * 描述了当block reward降为零后，对tx fees的selfish mining攻击
     
+   
+   
     [Mining] Kwon, Yujin, et al. "Be selfish and avoid dilemmas: Fork after withholding (faw) attacks on bitcoin." CCS2017.
     
     > * 将selfish mining和BWH结合，避免了矿工困境。当两个矿池采用FAW攻击时，算力大的一方总是获胜

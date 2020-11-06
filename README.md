@@ -5,6 +5,7 @@
 # CCS
     [Mining] Carlsten, Miles, et al. "On the instability of bitcoin without the block reward." CCS2016.
     
+    > * 描述两个矿池之间互相采用BWH攻击时，对双方都会造成一定的损失，因此存在一个矿工困境
     * 描述了当block reward降为零后，对tx fees的selfish mining攻击
     
    

@@ -65,7 +65,7 @@
     
    [Mining] Ritz, Fabian, and Alf Zugenmaier. "The impact of uncle rewards on selfish mining in Ethereum." Euro S&PW 2018.
     
-    > * 对以太坊的自私挖矿攻击
+   > * 对以太坊的自私挖矿攻击
      
    [Mining] Liu, Hanqing, et al. "On the strategy and behavior of bitcoin mining with n-attackers." ASIACCS2018.
 

@@ -1,4 +1,4 @@
-@[toc] 
+@[toc]
 
 
 
@@ -11,14 +11,18 @@
 # NDSS
 
 # FC
+    [Mining] Eyal, Ittay, and Emin Gün Sirer. "Majority is not enough: Bitcoin mining is vulnerable." International conference on financial cryptography and data security. Springer, Berlin, Heidelberg, 2014.
+    > 对比特币进行自私挖矿，敌手算力大于全网算力的25%时，敌手会盈利
+    ***
+    2.
 
 # Other
 
 
-## Mining
+
 
 1.   Eyal I, Sirer E G. Majority is not enough: Bitcoin mining is vulnerable. FC2014.
-      * 对比特币进行自私挖矿，阈值为25%。
+      * 对比特币进行自私挖矿，阈值为25%
 2.   Sapirshtein A, Sompolinsky Y, Zohar A. Optimal selfish mining strategies in bitcoin. FC2015.
       * 以Markov decision process建模selfish mining。
 3.   Eyal I. The miner's dilemma. S&P2015.

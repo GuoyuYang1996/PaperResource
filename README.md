@@ -19,7 +19,7 @@
    
    > * 基于FAW，动态调整渗透矿工的算力以最大化收益。将bribery attack 和 selfish mining结合，并提出腐败矿工困境
     
-   [BDoS] Mirkin, Michael, et al. "BDoS: Blockchain Denial of Service." CCS 2020.
+   [DoS] Mirkin, Michael, et al. "BDoS: Blockchain Denial of Service." CCS 2020.
    
    > * 提出了一种区块链拒绝服务攻击，并不要求敌手需要较大算力
    

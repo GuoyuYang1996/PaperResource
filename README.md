@@ -5,21 +5,21 @@
 # CCS
     [Mining] Carlsten, Miles, et al. "On the instability of bitcoin without the block reward." CCS2016.
     
-    >> * 描述了当block reward降为零后，对tx fees的selfish mining攻击
+    * 描述了当block reward降为零后，对tx fees的selfish mining攻击
     
    
    
     [Mining] Kwon, Yujin, et al. "Be selfish and avoid dilemmas: Fork after withholding (faw) attacks on bitcoin." CCS2017.
     
-    > * 将selfish mining和BWH结合，避免了矿工困境。当两个矿池采用FAW攻击时，算力大的一方总是获胜
+    * 将selfish mining和BWH结合，避免了矿工困境。当两个矿池采用FAW攻击时，算力大的一方总是获胜
     
     [Mining] Tsabary, Itay, and Ittay Eyal. "The gap game." CCS2018.
     
-    > * 对block reward降为0后的情况进一步分析，并考虑了挖矿的成本
+    * 对block reward降为0后的情况进一步分析，并考虑了挖矿的成本
     
     [Mining] Gao, Shang, et al. "Power adjusting and bribery racing: Novel mining attacks in the bitcoin system." CCS2019.
     
-    > * 在FAW的基础上，敌手能够调整渗透矿工算力以最大化收益。其次，将selfish mining 和 bribery attack结合，提出了腐败矿工困境问题
+    * 在FAW的基础上，敌手能够调整渗透矿工算力以最大化收益。其次，将selfish mining 和 bribery attack结合，提出了腐败矿工困境问题
 
     [DoS]
 

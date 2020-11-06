@@ -38,8 +38,12 @@
    
    > * 提出了一种新的共识协议：strong block 和 weak block，两者均具有一定比例的奖励，能够避免selfish mining攻击
    
+   [transaction] Yousaf, Haaroon, George Kappos, and Sarah Meiklejohn. "Tracing transactions across cryptocurrency ledgers." USENIX Security 2019.
    
-
+   > * 分别提出了两种启发式方法追踪跨链交易，其中增强式启发方法依赖Shapeshift的API
+   
+   
+   
 # NDSS
 
 

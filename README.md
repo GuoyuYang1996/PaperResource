@@ -5,7 +5,7 @@
 # CCS
     [Mining] Carlsten, Miles, et al. "On the instability of bitcoin without the block reward." CCS2016.
     
-    > * 描述了当block reward降为零后，对tx fees的selfish mining攻击
+    >> * 描述了当block reward降为零后，对tx fees的selfish mining攻击
     
    
    

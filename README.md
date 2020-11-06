@@ -9,11 +9,22 @@
     
    
    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
     
 
 
 # S&P
-   [Mining] Eyal, Ittay. "The miner's dilemma." 2015 IEEE Symposium on Security and Privacy. IEEE, 2015.
+   [Mining] Eyal, Ittay. "The miner's dilemma." 2015 IEEE Symposium on Security and Privacy. S&P 2015.
    
    > * 描述两个矿池之间互相采用BWH攻击时，对双方都会造成一定的损失，因此存在一个矿工困境
 

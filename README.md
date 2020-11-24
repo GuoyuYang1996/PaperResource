@@ -42,7 +42,9 @@
    
    > * 分别提出了两种启发式方法追踪跨链交易，其中增强式启发方法依赖Shapeshift的API
    
+   [Attack] Tramèr, Florian, Dan Boneh, and Kenny Paterson. "Remote side-channel attacks on anonymous transactions." USENIX Security 2020.
    
+   > * 提出了一种side-channel attack，通过流量分析、PING and REJECT attack 破坏 ZCash 和 Monero 的不可连接性和匿名性。
    
 # NDSS
 

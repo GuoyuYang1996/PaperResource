@@ -60,6 +60,7 @@
    [Mining] Sapirshtein, Ayelet, Yonatan Sompolinsky, and Aviv Zohar. "Optimal selfish mining strategies in bitcoin." FC2015.
     
    > * 以Markov decision process建模selfish mining,提供了敌手的相对收益
+   
    [Mining] Negy, Kevin Alarcón, Peter R. Rizun, and Emin Gün Sirer. "Selfish Mining Re-Examined." FC2020
    
    > * 考虑一种新的私自挖矿攻击：间歇性自私挖矿，即阶段一采用自我挖矿，阶段二采取诚实策略。可以发现，这种策略能够提高敌手的单位时间收益。此外，文章中还分析了间歇性自私挖矿在不同DAA（困难程度调整算法）上的表现

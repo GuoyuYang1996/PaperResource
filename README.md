@@ -33,7 +33,7 @@
 
 
 
-# USENIX Security
+# USENIX Security Symposium
    [consensus] Szalachowski, Pawel, et al. "Strongchain: Transparent and collaborative proof-of-work consensus." USENIX Security 2019.
    
    > * 提出了一种新的共识协议：strong block 和 weak block，两者均具有一定比例的奖励，能够避免selfish mining攻击

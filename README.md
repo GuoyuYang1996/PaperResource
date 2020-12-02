@@ -23,6 +23,10 @@
    
    > * 提出了一种区块链拒绝服务攻击，并不要求敌手需要较大算力
    
+   [Inter-Chain] Liu, Zhuotao, et al. "Hyperservice: Interoperability and programmability across heterogeneous blockchains." CCS 2019.
+   
+   > * 提出了HyperService，一种能够实现跨链资产转移和跨链智能合约调用的异构链互操作框架
+   
    
    
  
@@ -84,10 +88,10 @@
 
    > * 描述了两个敌手，采用selfish mining互相攻击的场景
 
-   [Cross-chain] Chain Interoperability. Vitalik Buterin. 2016.
+   [Inter-chain] Chain Interoperability. Vitalik Buterin. 2016.
    > * 介绍了三类常见的跨链协议，并分析其存在的安全性问题
     
-   [Cross-chain] Herlihy, Maurice. "Atomic cross-chain swaps." PODC 2018.
+   [Inter-chain] Herlihy, Maurice. "Atomic cross-chain swaps." PODC 2018.
     
    > * 介绍了原子跨链协议的定义等
 
